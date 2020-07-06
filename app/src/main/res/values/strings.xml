@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BiologyQuiz</string>
+    <string name="biology_quiz">BIOLOGY QUIZ</string>
+    <string name="cat_cell">Cell</string>
+    <string name="cat_system">ORGAN SYSTEMS</string>
+    <string name="cat_ecology">ECOLOGY</string>
+    <string name="cat_coordition">COORDINATION</string>
+    <string name="cat_plant_biology">PLANT BIOLOGY</string>
+    <string name="cat_genetics">GENETICS/VARIATION</string>
+    <string name="cat_reproduction">REPRODUCTION</string>
+    <string name="cat_nutrition">NUTRITION</string>
+</resources>
